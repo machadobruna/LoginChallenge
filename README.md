@@ -9,7 +9,7 @@
 
     1. Use Formik and Yup together to Validation
     2. TextField from Material-ui
-    3. save the data on state
+    3. save the data on state ou localstorage
     4. use just functions, not classes
     5. The page must be responsive
 
