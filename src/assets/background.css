@@ -1,0 +1,9 @@
+.backgroundrectangle{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(180deg, #458CF3 0%, #B4C9E9 52.4%, #E5E5E5 100%);
+}

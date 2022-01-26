@@ -1,0 +1,13 @@
+
+body {
+    background-image: url("background.png")
+  } 
+
+.logo {
+  display: block;
+  margin: 10px auto 100px;
+ }
+
+ .formclasse {
+   padding: 25px;
+ }
